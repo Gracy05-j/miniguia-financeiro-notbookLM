@@ -6,7 +6,7 @@
 * Público alvo: Gestores, microempresários e consultores de Pequenas e Médias Empresas (PMES).
 
 ## Curadoria de Fontes:
-O Guia foi estruturado e estudado com base em matérias abertos, artigos e conceituais de finanças:
+O Guia foi estruturado e estudado com base em matériais abertos, artigos e conceituais de finanças:
 Alguns links dessas fontes logo a baixo:
 * [Blog Cresol - Capital de Giro](https://blog.cresol.com.br/capital-de-giro-dicas/)
 
