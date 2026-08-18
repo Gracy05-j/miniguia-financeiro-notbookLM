@@ -2,8 +2,8 @@
 
  ## Contexto e Objetivos:
 * Tema escolhido : Guia Estratégico de Fluxo de Caixa e Planejamento Financeiro para Pequenas e Médias empresas : Da Teoria à Inteligência Artificial
-* Objetivo: Orientar microempresários com conceitos de boas práticas de planejamento financeiro e análise de fluxo de de caixa, além a utilização da Inteligência Artificial
-* Público alvo: Gestores, microempresários e consultores de Pequenas e Médias Empresas (PMES).
+* Objetivo: Orientar estudantes de administração e microempresários com conceitos de boas práticas de planejamento financeiro e análise de fluxo de de caixa, além a utilização da Inteligência Artificial
+* Público alvo: Estudantes de Administração, Gestores, microempresários e consultores de Pequenas e Médias Empresas (PMES).
 
 ## Curadoria de Fontes:
 O Guia foi estruturado e estudado com base em matériais abertos, artigos e conceituais de finanças:
