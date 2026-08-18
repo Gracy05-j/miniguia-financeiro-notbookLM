@@ -17,7 +17,7 @@ Alguns links dessas fontes logo a baixo:
 ## 3. Engenharia de Prompts e "Cicatrizes"
 
 ### Prompt 1: Estruturação Inicial do Guia
-* **Prompt Utilizado:** `"Com um background em Admin (GEMINI Transição de carreira): Crie um mini guia que aborde o seguinte tema: Guia Estratégico de Fluxo de Caixa e Planejamento Financeiro para Pequenas e Médias Empresas: Da teoria à Inteligência Artificial."`
+* **Prompt Utilizado:** `"Com um background em Admin (NotebookLM): Crie um mini guia que aborde o seguinte tema: Guia Estratégico de Fluxo de Caixa e Planejamento Financeiro para Pequenas e Médias Empresas: Da teoria à Inteligência Artificial."`
 * **Resultado Obtido:** A IA retornou a estrutura base com introdução aos conceitos de fluxo de caixa, aplicação prática em PMEs e diretrizes para uso da IA.
 * **Cicatriz / Aprendizado:** O resultado veio muito abrangente. Percebi a necessidade de fragmentar as solicitações em perguntas mais específicas para extrair detalhes operacionais.
 
